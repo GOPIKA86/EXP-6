@@ -1,6 +1,11 @@
+NAME: GOPIKA A
+
+REG NO: 212224100017
+
 # EXP-6
 EXP No. :6 			CHARACTERISTICS M OF LVDT
-AIM:To measure output voltage w.r.t the displacement of the core on the LVDT kit and
+AIM:
+To measure output voltage w.r.t the displacement of the core on the LVDT kit and
 find the graphical relationship between the two.
 
 APPARATUS: - LVDT kit, Multimeter
@@ -18,6 +23,23 @@ I. Connect the multimeter at the output of kit..
 
 
 OBSERVATION TABLE
+
+<img width="1280" height="1003" alt="image" src="https://github.com/user-attachments/assets/f10ee633-a1e1-41a9-9284-6b5e3c33ce24" />
+
+<img width="1280" height="1018" alt="image" src="https://github.com/user-attachments/assets/43435727-8e8a-4681-b032-5bab435f4d83" />
+
+
+OUTPUT:
+
+NULL
+<img width="1917" height="962" alt="Screenshot 2025-10-27 141544" src="https://github.com/user-attachments/assets/e7287bcb-2c3c-485f-bec1-83617c75964a" />
+
+MINUS
+<img width="1918" height="959" alt="Screenshot 2025-10-27 141355" src="https://github.com/user-attachments/assets/376275e3-6f3c-40db-b3a1-3cf0aff074da" />
+
+PLUS
+<img width="1912" height="969" alt="Screenshot 2025-10-27 141314" src="https://github.com/user-attachments/assets/a17e9490-56fd-4411-a86b-df273ff9ac9e" />
+
 
 PRECAUTION: -
 1. The values on the multimeter should be carefully noted.
